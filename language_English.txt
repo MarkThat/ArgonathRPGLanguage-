@@ -1,62 +1,62 @@
-LOGIN_WELCM1 - You have successfully logged in, {Player Name}
-LOGIN_WELCM2 - Welcome to Argonath RPG RS5!
-LOGIN_MFERR1 - The multi-factor verification service is offline. Please try again later.
-LOGIN_MFERR2 - Error: that code was wrong!
-LOGIN_MF1    - Your account has multi-factor authentication enabled.\n\n Please enter your code below as shown in the Google Authenticator app:
-LOGIN_PASSER1- Error: your passwords did not match! Remember, they are case-sensitive!
-LOGIN_PASSER2- Error: you have entered an invalid password.
-LOGIN_PASS2  - Please repeat the password you have chosen.
-LOGIN_QUIT   - Are you sure you wish to quit the server?
-LOGIN_ADULT  - Warning: This server contains elements that may be considered only suitable for adults.
-LOGIN_BYE1   - You chose to leave the server.
-ERROR_NOTLOG - Error: you have not logged in.
-ERROR_KICK   - Error: You can not do that command now.
-ECON_RELOAD  - [ALERT] Your economy data being reloaded, economic features unavailable momentarily.
-TXT_Login0   - Welcome to Argonath RPG
+LOGIN_WELCM1 - L\'accesso è stato eseguito con successo, {Player Name}
+LOGIN_WELCM2 - Benvenuto a Argonath RPG RS5!
+LOGIN_MFERR1 - Il servizio di verifica multi-factor è offline. Riprova più tardi.
+LOGIN_MFERR2 - Errore: il codice era sbagliato!
+LOGIN_MF1    - Il tuo account ha l\'autenticazione multi-factor abilitata.\n\n Inserisci il tuo codice qui sotto, come mostrato nell\'app Google Authenticator:
+LOGIN_PASSER1- Errore: le password inserite non corrispondono! Ricorda, sono maiuscole e minuscole!
+LOGIN_PASSER2- Errore: la password inserita non è corretta.
+LOGIN_PASS2  - Per favore ripeti la password scelta in precedenza.
+LOGIN_QUIT   - Sei sicuro di voler uscire?
+LOGIN_ADULT  - Attenzione: Questo server contiene elementi che possono essere considerati adatti solamente ad un pubblico di adulti.
+LOGIN_BYE1   - Hai deciso di uscire.
+ERROR_NOTLOG - Errore: non sei loggato.
+ERROR_KICK   - Errore: Non puoi eseguire il comando ora.
+ECON_RELOAD  - [AVVERTIMENTO] I tuoi dati economici sono in fase di ricarimento, le feature economiche sono temporaneamente non disponibili.
+TXT_Login0   - Benvenuto a Argonath RPG
 TXT_Login1   - A world of its own
-CMD_TIME     - The real life server time is {Time} (CET - Central European Time).
-CMD_TD       - The time is {time} server time (CET - Central European Time), the date is {date}
-CMD_DATE     - The date is {date}.
-MONTH_1      - January
-MONTH_2      - February
-MONTH_3      - March
-MONTH_4      - April
-MONTH_5      - May
-MONTH_6      - June
-MONTH_7      - July
-MONTH_8      - August
-MONTH_9      - September
-MONTH_10     - October
-MONTH_11     - November
-MONTH_12     - December
+CMD_TIME     - L'ora reale del server è {Time} (CET - Central European Time).
+CMD_TD       - Sono le {time} (CET - Central European Time), oggi è {date}
+CMD_DATE     - Oggi è {date}.
+MONTH_1      - Gennaio
+MONTH_2      - Febbraio
+MONTH_3      - Marzo
+MONTH_4      - Aprile
+MONTH_5      - Maggio
+MONTH_6      - Giugno
+MONTH_7      - Luglio
+MONTH_8      - Agosto
+MONTH_9      - Settembre
+MONTH_10     - Ottombre
+MONTH_11     - Novembre
+MONTH_12     - Dicembre
 
 // Other
-RES_COMBAT   - You cannot do this while in combat.
-RES_NODONE	 - Error: This feature is currently disabled due to a bug.
+RES_COMBAT   - Non puoi fare questo mentre sei in combattimento.
+RES_NODONE	 - Errore: Questa feature al momento è disabilitata a causa di un bug.
 
 // Economy
 ECON_ATM_TY  - Thank you for using this Automated Teller Machine provided by Argonath RPG Bank!"
-ECON_ATM_NC  - Error: You are not at an ATM
-ECON_ATM_CIV - You do not have a bank account to use this device. You must first be a legal citizen.
-ECON_ATM_LIM - Error: You cannot withdraw amounts greater than $100,00 at an ATM. Please visit the local bank.
-ECON_ATM_POS - Error: You can only withdraw a positive amount.
-ECON_ATM_1m  - Error: You must wait a minute before using the ATM again for a withdrawal.
-ECON_BNK_N10 - Error: Cannot be longer than 10 characters.
-ECON_BNK_DBT - Bank: Sorry, you're in debt. Your accounts are frozen.
-ECON_BNK_ACC - That account doesn't exist or you don't have access to it.
-ECON_BNK_FKT - There was an error with the source account.
-ECON_BNK_LRG - Error: that value is too large.
-ECON_BNK_MIN - Error: minimum amount is $1.
-ECON_BNK_FUN - Error: You do not have enough money available to deposit that amount.
-ECON_BNK_WNSF- You have insufficient funds available to preform the request.
-ECON_BNK_TY  - Thank you for visiting Argonath RPG Bank
-ECON_BNK_REJ - Transaction rejected, funds will not be transfered
-ECON_BNK_PART- Your partner must be in the bank!
-ECON_BNK_PSLF- You can not open a partner account with yourself.
-ECON_BNK_PNO - You've selected not to create an account.
-ECON_BNK_PPNO- Your partner has declined your request to open an account.
-ECON_BNK_LOAD- Error: Your banks aren't loaded yet, please wait.
-ECON_BNK_BNK - Error: You must be in the bank.
-ECON_BNK_CIV - Error: We don't let immigrants operate bank accounts. Passport required to use bank.
-ECON_BNK_CRI - Error: the bank is closed due to a financial crisis.
-ECON_BNK_GRP - Error: Please use /groupbank to withdraw/deposit from a group account.
+ECON_ATM_NC  - Errore: Non sei allo sportello bancomat.
+ECON_ATM_CIV - Non disponi di un conto bancario per utilizzare lo sportello. Per prima cosa è necessario disporre di una cittadinanza.
+ECON_ATM_LIM - Errore: Non è possibile ritirare importi superiori a $ 100.000 ad un bancomat. Visiti la banca locale.
+ECON_ATM_POS - Errore: E' possibile ritirare soltanto importi positivi.
+ECON_ATM_1m  - Errore: E' necessario attendere un minuto prima di utilizzare nuovamente il bancomat per il ritiro.
+ECON_BNK_N10 - Errore: Non più di 10 caratteri.
+ECON_BNK_DBT - Banca: Siamo spiacenti, è in debito. I suoi conti sono stati congelati.
+ECON_BNK_ACC - Questo conto non è esiste o non si dispone delll'autorizzazione di accesso.
+ECON_BNK_FKT - C\'è stato un errore con il conto di origine.
+ECON_BNK_LRG - Errore: tale importo è troppo grande.
+ECON_BNK_MIN - Errore: l\'importo minimo è di $1.
+ECON_BNK_FUN - Errore: Non hai sufficiente denaro a disposizione per depositare quell\'importo.
+ECON_BNK_WNSF- Non hai fondi a sufficienza per effettuare questa richiesta.
+ECON_BNK_TY  - Grazie per aver visitato Argonath RPG Bank
+ECON_BNK_REJ - Transazione rifiutata, i suoi fondi non verranno trasferiti
+ECON_BNK_PART- Il partner deve essere dentro la banca!
+ECON_BNK_PSLF- Non puoi aprire un conto condiviso con te stesso.
+ECON_BNK_PNO - Ha scelto di non aprire un account.
+ECON_BNK_PPNO- Il vostro partner ha rifiutato la richiesta di aprire un conto.
+ECON_BNK_LOAD- Errore: I suoi conti non sono ancora stati caricati, attenda per piacere.
+ECON_BNK_BNK - Errore: E\' necessario essere in banca.
+ECON_BNK_CIV - Errore: Non lasciamo operare dei conti bancari ad immigrati. Il passporto è necessario per utilizzare la banca.
+ECON_BNK_CRI - Errore: la banca è chiusa a causa di una crisi finanziara.
+ECON_BNK_GRP - Errore: Utilizza /groupbank per prelevare/depositare withdraw/deposit da un conto bancario di gruppo.
